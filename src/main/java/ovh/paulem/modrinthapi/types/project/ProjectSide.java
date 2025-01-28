@@ -3,6 +3,7 @@ package ovh.paulem.modrinthapi.types.project;
 public enum ProjectSide {
     REQUIRED("required"),
     OPTIONAL("optional"),
+    UNKNOWN("unknown"),
     UNSUPPORTED("unsupported");
 
     private final String text;
