@@ -14,7 +14,7 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains:annotations:26.0.2-1")
-    implementation("com.google.code.gson:gson:2.13.1")
+    implementation("com.google.code.gson:gson:2.13.2")
 }
 
 java {
